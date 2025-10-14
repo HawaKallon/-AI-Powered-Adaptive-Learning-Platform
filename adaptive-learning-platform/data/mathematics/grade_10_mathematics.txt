@@ -1,0 +1,150 @@
+Grade 10 Mathematics Curriculum - Sierra Leone
+
+Chapter 1: Algebra and Linear Equations
+This chapter introduces fundamental algebraic concepts essential for Grade 10 students in Sierra Leone.
+
+Section 1.1: Introduction to Variables and Expressions
+Students will learn to:
+- Understand variables as unknown quantities represented by letters (x, y, z)
+- Write algebraic expressions from word problems
+- Evaluate expressions by substituting values
+- Apply these concepts to real-life situations in Sierra Leone
+
+Examples from Sierra Leone:
+- A trader in Freetown sells x bags of rice at Le 15,000 per bag. Write an expression for total revenue.
+- A farmer in Bo plants y rows of cassava with 20 plants per row. Write an expression for total plants.
+- A student in Kenema saves Le 5,000 per week for x weeks. Write an expression for total savings.
+
+Section 1.2: Solving Linear Equations
+Students will learn to:
+- Solve equations with one variable
+- Use inverse operations to isolate variables
+- Check solutions by substitution
+- Apply equation solving to practical problems
+
+Real-world applications:
+- Calculating costs for school supplies
+- Determining quantities for market trading
+- Solving problems involving Sierra Leone currency (Leone)
+
+Section 1.3: Linear Inequalities
+Students will learn to:
+- Understand inequality symbols (<, >, ≤, ≥)
+- Solve linear inequalities
+- Graph solutions on number lines
+- Apply to budgeting and resource allocation
+
+Chapter 2: Geometry and Measurement
+This chapter covers geometric shapes, properties, and measurements relevant to Sierra Leone.
+
+Section 2.1: Basic Geometric Shapes
+Students will learn about:
+- Triangles: types, properties, and angle relationships
+- Quadrilaterals: squares, rectangles, parallelograms
+- Circles: radius, diameter, circumference, area
+- Polygons: regular and irregular shapes
+
+Sierra Leone applications:
+- Calculating land area for farming plots
+- Designing traditional Sierra Leonean architecture
+- Measuring circular objects like drums and baskets
+
+Section 2.2: Area and Perimeter
+Students will learn to:
+- Calculate area of rectangles, triangles, and circles
+- Find perimeter of various shapes
+- Apply formulas to real-world problems
+- Use appropriate units of measurement
+
+Practical examples:
+- Calculating area of rectangular farm plots in Kenema
+- Finding perimeter of school compounds
+- Determining material needed for construction projects
+
+Section 2.3: Volume and Surface Area
+Students will learn to:
+- Calculate volume of rectangular prisms, cylinders, and spheres
+- Find surface area of 3D shapes
+- Apply to storage and construction problems
+- Use cubic units appropriately
+
+Chapter 3: Statistics and Data Analysis
+This chapter introduces statistical concepts using Sierra Leone data.
+
+Section 3.1: Data Collection and Organization
+Students will learn to:
+- Collect data through surveys and observations
+- Organize data in tables and charts
+- Create frequency distributions
+- Use appropriate data collection methods
+
+Sierra Leone data sources:
+- Population statistics from different regions
+- Economic data from local markets
+- Environmental data from Sierra Leone's ecosystems
+- Educational statistics from schools
+
+Section 3.2: Measures of Central Tendency
+Students will learn to:
+- Calculate mean, median, and mode
+- Understand when to use each measure
+- Interpret results in context
+- Apply to real-world data sets
+
+Section 3.3: Data Visualization
+Students will learn to:
+- Create bar graphs, line graphs, and pie charts
+- Choose appropriate graph types
+- Interpret graphical data
+- Present data clearly and accurately
+
+Chapter 4: Financial Mathematics
+This chapter covers money management and financial calculations relevant to Sierra Leone.
+
+Section 4.1: Currency and Exchange Rates
+Students will learn to:
+- Work with Sierra Leone Leone (SLL)
+- Convert between different currencies
+- Calculate exchange rates
+- Apply to international trade
+
+Section 4.2: Simple and Compound Interest
+Students will learn to:
+- Calculate simple interest
+- Understand compound interest
+- Compare different investment options
+- Apply to savings and loans
+
+Section 4.3: Budgeting and Financial Planning
+Students will learn to:
+- Create personal and family budgets
+- Track income and expenses
+- Plan for future financial goals
+- Make informed financial decisions
+
+Chapter 5: Trigonometry Basics
+This chapter introduces trigonometric concepts for advanced mathematics.
+
+Section 5.1: Right Triangle Trigonometry
+Students will learn about:
+- Sine, cosine, and tangent ratios
+- Using trigonometric ratios to solve problems
+- Applications to height and distance problems
+- Using calculators for trigonometric calculations
+
+Sierra Leone applications:
+- Measuring heights of buildings and trees
+- Navigation and surveying
+- Construction and engineering projects
+
+Assessment and Evaluation:
+- Formative assessments through practice problems
+- Summative evaluations with real-world applications
+- Peer review and collaborative problem-solving
+- Self-reflection on learning progress
+
+Resources and Materials:
+- Calculators and measuring instruments
+- Graph paper and drawing tools
+- Real-world data from Sierra Leone
+- Technology integration for data analysis
