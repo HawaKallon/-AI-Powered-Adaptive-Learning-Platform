@@ -26,7 +26,14 @@ def hash_password(password: str) -> str:
     """
     # Truncate password to 72 bytes for bcrypt compatibility
     password = password[:72]
-    return pwd_context.hash(password)
+    try:
+        return pwd_context.hash(password)
+    except ValueError as e:
+        if "password cannot be longer than 72 bytes" in str(e):
+            # If password is still too long, truncate further
+            password = password.encode('utf-8')[:72].decode('utf-8', errors='ignore')
+            return pwd_context.hash(password)
+        raise
 
 
 def get_password_hash(password: str) -> str:
@@ -42,7 +49,14 @@ def verify_password(plain_password: str, hashed_password: str) -> bool:
     """
     # Truncate password to 72 bytes for bcrypt compatibility
     plain_password = plain_password[:72]
-    return pwd_context.verify(plain_password, hashed_password)
+    try:
+        return pwd_context.verify(plain_password, hashed_password)
+    except ValueError as e:
+        if "password cannot be longer than 72 bytes" in str(e):
+            # If password is still too long, truncate further
+            plain_password = plain_password.encode('utf-8')[:72].decode('utf-8', errors='ignore')
+            return pwd_context.verify(plain_password, hashed_password)
+        raise
 
 
 def create_access_token(data: dict, expires_delta: Optional[timedelta] = None) -> str:
